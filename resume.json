@@ -71,7 +71,18 @@
             "work_desc": "主要负责 Android 网络相关业务的维护，推动模块通用结耦。"
         }
     ],
-    "skillList": [],
+    "skillList": [        
+        {
+            "skill_name": "嵌入式开发",
+            "skill_desc": "",
+            "skill_level": 85
+        },
+        {
+            "skill_name": "通信协议开发",
+            "skill_desc": "深度分析蓝牙通信协议、熟悉有线传输协议",
+            "skill_level": 85
+        }
+    ],
     "projectList": [
         {
             "project_name": "BH71 WorkStation",
@@ -98,18 +109,7 @@
             "dataIndex": 2
         }
     ],
-    "workList": [        
-        {
-            "skill_name": "嵌入式开发",
-            "skill_desc": "",
-            "skill_level": 85
-        },
-        {
-            "skill_name": "通信协议开发",
-            "skill_desc": "深度分析蓝牙通信协议、熟悉有线传输协议",
-            "skill_level": 85
-        }
-    ],
+    "workList": [ ],
     "aboutme": {
         "aboutme_desc": "🎯 Focused on protocol development, Self-driven Embedded Engineer. \nBluelink 自研协议栈核心开发者，负责经典蓝牙音频功能和低功耗蓝牙业务。\n热爱生活，喜欢徒步、骑行和跑步。\n对世界充满好奇，喜欢接触新事物。\n    "
     },
