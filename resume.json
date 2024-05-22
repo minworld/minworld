@@ -9,7 +9,7 @@
         "aboutme": "自我介绍"
     },
     "avatar": {
-        "hidden": false,
+        "hidden": true,
         "src": "https://img2.imgtp.com/2024/05/21/cTjfg7j3.jpeg",
         "shape": "square"
     },
@@ -51,7 +51,6 @@
                 "2021.04"
             ],
             "work_desc": "亿联春季实习生，主要负责蓝牙协议的分析和音频功能预研工作。",
-            "dataIndex": 0
         },
         {
             "company_name": "厦门亿联网络有限公司",
@@ -60,8 +59,7 @@
                 "2021.07",
                 "2023.12"
             ],
-            "work_desc": "参与自有蓝牙协议栈 Bluelink 的开发，主导蓝牙音频部分的整体设计和开发，独立负责蓝牙 BLE 传感器业务。",
-            "dataIndex": 1
+            "work_desc": "参与自有蓝牙协议栈 Bluelink 的开发，主导蓝牙音频功能的整体设计和开发，负责蓝牙 BLE 传感器业务、推动蓝牙自动化测试。",
         },
         {
             "company_name": "厦门亿联网络有限公司",
@@ -71,31 +69,41 @@
                 ""
             ],
             "work_desc": "主要负责 Android 网络相关业务的维护，推动模块通用结耦。",
-            "dataIndex": 2
         }
     ],
-    "skillList": [],
+    "skillList": [
+        {
+            "skill_name": "协议开发",
+            "skill_desc": "",
+            "skill_level": 90
+        },
+        {
+            "skill_name": "C 语言",
+            "skill_desc": "",
+            "skill_level": 80
+        }
+    ],
     "projectList": [
         {
             "project_name": "BH71 WorkStation",
             "project_role": "蓝牙音频负责人",
-            "project_time": "2021.9 - 2022.06",
-            "project_desc": "基于 ARM 架构的 Linux 系统开发的蓝牙多协议双角色会议通信产品，是公司 2021 年战略级产品。",
+            "project_time": "2021.09 - 2022.04",
+            "project_desc": "基于 ARM 架构的 Linux 系统开发的蓝牙多协议双角色会议通信产品，作为公司 2021 年耳机产品线的战略机型。",
             "project_content": "负责蓝牙音频传输及控制功能的设计和开发。\n1. 设计 Bluelink A2DP 和 AVRCP 功能，提高音频传输质量。\n2. 蓝牙 RTP 传输方案，降低系统复杂度并提高传输稳定性，获得公司层面表扬。",
             "dataIndex": 0
         },
         {
             "project_name": "RoomSensor Pro",
             "project_role": "BLE 负责人",
-            "project_time": "2022.07 - 2023.10",
-            "project_desc": "RoomSensor Pro 是智慧会议室的高阶传感器，提供基于视觉的人数检测功能和环境信息的收集，通过蓝牙传输信息至网关后联动公司各类智慧会议设备。\n",
-            "project_content": "负责项目 BLE 无线传输功能，开发 Bluelink BLE 功能。\n1. 设计基于低功耗蓝牙的大数据传输协议，通过无响应和丢包补偿方式极大提高传输效率，获得公司表扬。\n2. 参与开发设备双向多重安全认证，提高了设备安全性。\n",
+            "project_time": "2022.10 - 2023.09",
+            "project_desc": "RoomSensor Pro 是智慧会议室产品线的高阶传感器型号，提供基于视觉的人数检测功能和环境信息的收集，通过蓝牙传输信息至网关后联动公司各类智慧会议设备。\n",
+            "project_content": "负责项目 BLE 无线传输功能，开发 Bluelink BLE 功能。\n1. 设计基于低功耗蓝牙的通用大数据传输协议，运用在传感器和助听器的系统升级和诊断等各项功能。\n2. 优化无响应和丢包补偿方式极大提高传输效率，获得公司表扬。\n3. 参与开发设备双向多重安全认证，提高了设备安全性。\n",
             "dataIndex": 1
         },
         {
             "project_name": "安卓模块结耦及独立编译",
             "project_role": "核心开发者",
-            "project_time": "2024.1 - 至今",
+            "project_time": "2024.01 - 至今",
             "project_desc": "安卓模块结耦及独立编译主要为了解决安卓版本迭代移植周期长，修改编译耗时等问题。\n",
             "project_content": "安卓 Java 和 C++ 部分的独立编译。 \n1. Java 的 Gradle 独立编译方案设计及落地。 \n2. C++ 的 Cmake 独立编译方案设计及落地。\n",
             "dataIndex": 2
@@ -103,7 +111,7 @@
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "🎯 Focused on protocol development, Self-driven Engineer. \nBluelink 自研协议栈核心开发者，负责经典蓝牙音频功能和低功耗蓝牙业务。\n热爱生活，喜欢徒步、骑行和跑步。\n对世界充满好奇，喜欢接触新事物。\n    "
+        "aboutme_desc": "🎯 Focused on protocol development, Self-driven Embedded Engineer. \nBluelink 自研协议栈核心开发者，负责经典蓝牙音频功能和低功耗蓝牙业务。\n热爱生活，喜欢徒步、骑行和跑步。\n对世界充满好奇，喜欢接触新事物。\n    "
     },
     "theme": {
         "color": "#2f5785",
