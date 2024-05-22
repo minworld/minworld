@@ -51,6 +51,7 @@
                 "2021.04"
             ],
             "work_desc": "亿联春季实习生，主要负责蓝牙协议的分析和音频功能预研工作。",
+            "dataIndex": 0
         },
         {
             "company_name": "厦门亿联网络有限公司",
@@ -60,26 +61,26 @@
                 "2023.12"
             ],
             "work_desc": "参与自有蓝牙协议栈 Bluelink 的开发，主导蓝牙音频功能的整体设计和开发，负责蓝牙 BLE 传感器业务、推动蓝牙自动化测试。",
+            "dataIndex": 1
         },
         {
             "company_name": "厦门亿联网络有限公司",
             "department_name": "平台软件部",
             "work_time": [
                 "2023.12",
-                ""
+                null
             ],
             "work_desc": "主要负责 Android 网络相关业务的维护，推动模块通用结耦。",
+            "dataIndex": 2
         }
     ],
     "skillList": [
         {
             "skill_name": "协议开发",
-            "skill_desc": "",
             "skill_level": 90
         },
         {
             "skill_name": "C 语言",
-            "skill_desc": "",
             "skill_level": 80
         }
     ],
