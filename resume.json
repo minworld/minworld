@@ -43,15 +43,6 @@
         }
     ],
     "workExpList": [
-    、{
-            "company_name": "厦门亿联网络有限公司",
-            "department_name": "嵌入式软件部",
-            "work_time": [
-                "2021.07",
-                "2023.12"
-            ],
-            "work_desc": "参与自有蓝牙协议栈 Bluelink 的开发，主导蓝牙音频功能的整体设计和开发，负责蓝牙 BLE 传感器业务、推动蓝牙自动化测试落地。"
-        },
         {
             "company_name": "厦门亿联网络有限公司",
             "department_name": "嵌入式软件部",
