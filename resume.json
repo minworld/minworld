@@ -85,7 +85,7 @@
             "project_name": "RoomSensor Pro",
             "project_role": "BLE 负责人",
             "project_time": "2022.10 - 2023.09",
-            "project_desc": "RoomSensor Pro 是智慧会议室产品线的高阶传感器型号，提供基于视觉的人数检测功能和环境信息的收集，通过蓝牙传输信息至网关后联动公司各类智慧会议设备。\n",
+            "project_desc": "RoomSensor Pro 是智慧会议室产品线的高阶传感器，提供基于视觉的人数检测功能和环境信息的收集，通过蓝牙控制并传输信息至网关后，联动智慧会议设备。\n",
             "project_content": "负责项目 BLE 无线传输功能，开发 Bluelink BLE 功能。\n1. 设计基于低功耗蓝牙的通用大数据传输协议，运用在传感器和助听器的系统升级和诊断等各项功能。\n2. 优化无响应和丢包补偿方式极大提高传输效率，获得公司表扬。\n3. 参与开发设备双向多重安全认证，提高了设备安全性。\n",
             "dataIndex": 1
         },
@@ -98,7 +98,18 @@
             "dataIndex": 2
         }
     ],
-    "workList": [],
+    "workList": [        
+        {
+            "skill_name": "嵌入式开发",
+            "skill_desc": "",
+            "skill_level": 85
+        },
+        {
+            "skill_name": "通信协议开发",
+            "skill_desc": "深度分析蓝牙通信协议、熟悉有线传输协议",
+            "skill_level": 85
+        }
+    ],
     "aboutme": {
         "aboutme_desc": "🎯 Focused on protocol development, Self-driven Embedded Engineer. \nBluelink 自研协议栈核心开发者，负责经典蓝牙音频功能和低功耗蓝牙业务。\n热爱生活，喜欢徒步、骑行和跑步。\n对世界充满好奇，喜欢接触新事物。\n    "
     },
