@@ -19,7 +19,6 @@
         "mobile": "13067215282",
         "github": "",
         "zhihu": "",
-        "workExpYear": "",
         "workPlace": "福建厦门",
         "positionTitle": "RD Engineer"
     },
@@ -31,15 +30,13 @@
             ],
             "school": "华侨大学",
             "major": "电子信息工程",
-            "academic_degree": "本科",
-            "dataIndex": 0
+            "academic_degree": "本科"
         }
     ],
     "awardList": [
         {
             "award_info": "亿联月度之星",
-            "award_time": "2022.06/2023.10/2024.04",
-            "dataIndex": 0
+            "award_time": "2022.06/2023.10/2024.04"
         }
     ],
     "workExpList": [
